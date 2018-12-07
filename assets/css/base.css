@@ -1,0 +1,7 @@
+.center {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+::selection {
+  background-color: #f35038;
+}
